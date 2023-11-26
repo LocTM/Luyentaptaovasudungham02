@@ -64,3 +64,17 @@
 //     }
 // }
 // isInteger();
+
+// BT7
+// let number1 = +prompt("Nhập vào đây số a: ")
+// let number2 = +prompt("Nhập vào đây số b: ");
+// function swapIntegers(a, b) {
+//     let temp = a;
+//     a = b;
+//     b = temp;
+//     return [a, b];
+// }
+// let swappedNumbers = swapIntegers(number1, number2);
+// console.log(swappedNumbers);
+
+//BT8
