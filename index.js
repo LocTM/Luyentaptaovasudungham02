@@ -66,7 +66,7 @@
 // isInteger();
 
 // BT7
-// let number1 = +prompt("Nhập vào đây số a: ")
+// let number1 = +prompt("Nhập vào đây số a: ");
 // let number2 = +prompt("Nhập vào đây số b: ");
 // function swapIntegers(a, b) {
 //     let temp = a;
@@ -78,3 +78,11 @@
 // console.log(swappedNumbers);
 
 //BT8
+// let numbers = [1, 2, 3, 4, 5];
+// function reverseArray(arr) {
+//     return arr.reverse();
+// }
+// reverseArray(numbers);
+// console.log(numbers);
+
+// BT9
