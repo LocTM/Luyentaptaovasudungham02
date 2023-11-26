@@ -86,3 +86,17 @@
 // console.log(numbers);
 
 // BT9
+// let arr1 = ["a", "b", "c", "d", "a", "c", "a"];
+// let char1 = "e";
+// function inArr(arr, char) {
+//     let count = 0;
+//     for (let i = 0; i < arr.length; i++) {
+//         if (char === arr[i]) {
+//             count++;
+//         }
+//     }
+//     if (count !== 0)
+//         return count;
+//     return "Không có";
+// }
+// console.log(`Số lần "${char1}" xuất hiện trong mảng:` + inArr(arr1, char1));
